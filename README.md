@@ -19,7 +19,7 @@ A complete ML project built from scratch as part of my Data Science learning jou
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd Machine-Learning-Projects
 pip install -r requirements.txt
 python src/components/data_ingestion.py
 ```
